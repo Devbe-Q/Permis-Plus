@@ -1,12 +1,20 @@
-# Privacy Policy for PermiGoo
-**Privacy Policy**  
-**Last updated: March 31, 2026**
+# Government Affiliation Disclaimer
 
-**Disclaimer:** This app is not affiliated with or endorsed by any government entity. The content is for educational purposes only and is based on publicly available information from official sources such as SPF Mobilité et Transports and regional authorities.
+PermiGoo is an independent application and is not affiliated with, endorsed by, representing or acting on behalf of any government entity, including the SPF Mobilité et Transports or any regional authorities.
+
+This application provides educational content to help users practice for the Belgian driving theory exam. The information presented is based on publicly available resources from official government sources, including:
+
+- https://mobilit.belgium.be
+- https://mobilite.wallonie.be
+- https://securotheque.wallonie.be
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
 We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the Privacy Policy Generator.
+
+# Privacy Policy for PermiGoo
+**Privacy Policy**  
+**Last updated: April 4, 2026**
 
 ## Interpretation and Definitions
 
@@ -48,8 +56,6 @@ We may also collect information that Your browser sends whenever You visit our S
 
 ### Information Collected while Using the Application
 While using Our Application, in order to provide features of Our Application, We may collect, with Your prior permission:
-
-- Pictures and other information from your Device's camera and photo library  
 
 We use this information to provide features of Our Service, to improve and customize Our Service. The information may be uploaded to the Company's servers and/or a Service Provider's server or it may be simply stored on Your device.
 
